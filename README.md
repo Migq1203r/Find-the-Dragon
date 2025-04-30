@@ -18,4 +18,4 @@ Find The Dragon 🐲
 
   **Linux 🐧 and MAC 🍎:**
 
-    ```git clone https://github.com/Migq1203r/Find-the-Dragon/```
+    git clone https://github.com/Migq1203r/Find-the-Dragon/
